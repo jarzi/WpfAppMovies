@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=System.Runtime">
+    <system:String x:Key="Back">Wróć do listy</system:String>
+    <system:String x:Key="MainTitle">Informator filmowy</system:String>
+    <system:String x:Key="ReleaseDate" xml:space="preserve">Rok produkcji: </system:String>
+    <system:String x:Key="Director" xml:space="preserve">Reżyser: </system:String>
+</ResourceDictionary>
