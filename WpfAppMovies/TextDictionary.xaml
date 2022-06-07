@@ -5,4 +5,5 @@
     <system:String x:Key="MainTitle">Informator filmowy</system:String>
     <system:String x:Key="ReleaseDate" xml:space="preserve">Rok produkcji: </system:String>
     <system:String x:Key="Director" xml:space="preserve">Reżyser: </system:String>
+    
 </ResourceDictionary>
