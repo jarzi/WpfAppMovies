@@ -8,6 +8,7 @@ namespace WpfAppMovies.ViewModels
     {
         private ObservableCollection<Movie> _movies = new ObservableCollection<Movie>();
 
+
         public ObservableCollection<Movie> Movies
         {
             get => _movies;
