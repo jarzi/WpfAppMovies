@@ -10,7 +10,7 @@ namespace WpfAppMovies.Repository
         {
             using var fileStream = new FileStream("../../../MoviesData.xml", FileMode.Open);
             var serializer = new XmlSerializer(typeof(Movies));
-            return (Movies) serializer.Deserialize(fileStream);
+            return (Movies)serializer.Deserialize(fileStream);
         }
     }
 }
